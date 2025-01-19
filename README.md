@@ -1,2 +1,3 @@
 # Libft
-First project at 42, consists in replicate various of the most common functions in C.
+First project at 42, consists in replicate various usefull functions in C.
+100% done, needed upgrade to get the 125%.
